@@ -16,13 +16,6 @@ This platform enables users to submit coding solutions, validate them against hi
 
 ---
 
-## 🚀 Deployment Details
-
-- 🌍 **Frontend**: Deployed on [Vercel](https://vercel.com/).
-- ☁️ **Backend**: Hosted on **AWS EC2**, ensuring scalability and reliability.
-
----
-
 ## 🔧 Technologies Used
 
 - ⚛️ **React**: For building the responsive and dynamic user interface.
